@@ -6,7 +6,7 @@ h2 {
 
 /*Center everything and add a background*/
 body {
-  background-image: url('/img/BG.jpg');
+  background-image: url('/WebbedSite/img/BG.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
@@ -43,7 +43,7 @@ body {
 
 #mods img {
   background: darkgrey;
-  background-image: url('/img/modIcons/backing.png');
+  background-image: url('/WebbedSite/img/modIcons/backing.png');
   background-size: cover;
   margin-bottom: 20px;
   border: 3px solid grey;
