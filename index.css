@@ -31,7 +31,7 @@ body {
   z-index: -1;
 }
 
-[class^=".mod-image"] {
+[class^="mod-image"] {
   clear: both;
   height: 150px;
   width: 150px;
